@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Object4","order":7,"path":"objects/Object4/Object4.yy",},
+    {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oPLayer","order":1,"path":"objects/oPLayer/oPLayer.yy",},
+    {"name":"owall","order":5,"path":"objects/owall/owall.yy",},
+    {"name":"sEnemy","order":6,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sPLayer","order":2,"path":"sprites/sPLayer/sPLayer.yy",},
+    {"name":"sPLayerAttack","order":4,"path":"sprites/sPLayerAttack/sPLayerAttack.yy",},
+    {"name":"Sprite4","order":8,"path":"sprites/Sprite4/Sprite4.yy",},
+  ],
+}
