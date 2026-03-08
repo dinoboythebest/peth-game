@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oMultiplayer","order":8,"path":"objects/oMultiplayer/oMultiplayer.yy",},
+    {"name":"oPLayer_1","order":15,"path":"objects/oPLayer_1/oPLayer_1.yy",},
+    {"name":"oPLayer2","order":1,"path":"objects/oPLayer2/oPLayer2.yy",},
+    {"name":"oSingleplayer","order":7,"path":"objects/oSingleplayer/oSingleplayer.yy",},
+    {"name":"owall","order":5,"path":"objects/owall/owall.yy",},
+    {"name":"Mainmenu","order":11,"path":"rooms/Mainmenu/Mainmenu.yy",},
+    {"name":"roomMultiplayer","order":10,"path":"rooms/roomMultiplayer/roomMultiplayer.yy",},
+    {"name":"roomSingleplayer","order":9,"path":"rooms/roomSingleplayer/roomSingleplayer.yy",},
+    {"name":"sEnemy","order":6,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sMultiplayer","order":12,"path":"sprites/sMultiplayer/sMultiplayer.yy",},
+    {"name":"sPLayer","order":2,"path":"sprites/sPLayer/sPLayer.yy",},
+    {"name":"sPLayerAttack","order":4,"path":"sprites/sPLayerAttack/sPLayerAttack.yy",},
+    {"name":"sSingleplayer","order":13,"path":"sprites/sSingleplayer/sSingleplayer.yy",},
+    {"name":"sWall","order":14,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
