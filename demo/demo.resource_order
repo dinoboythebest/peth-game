@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"owall","order":2,"path":"objects/owall/owall.yy",},
+    {"name":"player","order":1,"path":"objects/player/player.yy",},
+    {"name":"Sprite1","order":3,"path":"sprites/Sprite1/Sprite1.yy",},
+  ],
+}
