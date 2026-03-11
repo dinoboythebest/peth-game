@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oEndlessWaveButton","order":2,"path":"objects/oEndlessWaveButton/oEndlessWaveButton.yy",},
+    {"name":"roomEndlessWaves","order":1,"path":"rooms/roomEndlessWaves/roomEndlessWaves.yy",},
+    {"name":"sEndlessWaves","order":3,"path":"sprites/sEndlessWaves/sEndlessWaves.yy",},
+  ],
+}
