@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":6,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oEndlessWaveButton","order":2,"path":"objects/oEndlessWaveButton/oEndlessWaveButton.yy",},
+    {"name":"roomEndlessWaves","order":1,"path":"rooms/roomEndlessWaves/roomEndlessWaves.yy",},
+    {"name":"attack2","order":1,"path":"sprites/attack2/attack2.yy",},
+    {"name":"attack3","order":2,"path":"sprites/attack3/attack3.yy",},
+    {"name":"Blocking","order":8,"path":"sprites/Blocking/Blocking.yy",},
+    {"name":"dead","order":3,"path":"sprites/dead/dead.yy",},
+    {"name":"hurt","order":4,"path":"sprites/hurt/hurt.yy",},
+    {"name":"idle","order":5,"path":"sprites/idle/idle.yy",},
+    {"name":"jumping","order":6,"path":"sprites/jumping/jumping.yy",},
+    {"name":"Running","order":7,"path":"sprites/Running/Running.yy",},
+    {"name":"sEndlessWaves","order":3,"path":"sprites/sEndlessWaves/sEndlessWaves.yy",},
+    {"name":"sPlayer","order":5,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"Walking","order":9,"path":"sprites/Walking/Walking.yy",},
+  ],
+}
