@@ -6,8 +6,8 @@
   "name":"owall",
   "overriddenProperties":[],
   "parent":{
-    "name":"demo_10_v",
-    "path":"demo_10_v.yyp",
+    "name":"demo9",
+    "path":"demo9.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

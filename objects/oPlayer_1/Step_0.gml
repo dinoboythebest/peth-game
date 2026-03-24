@@ -120,6 +120,7 @@
 	} 
 	else 
 	{
+		sprite_index=sPlayerRun
 	    if (floor(image_index) == 2 && !already_hit) {
 	        var _hit_enemy = instance_place(x + (image_xscale * 20), y, oEnemy);
 	        if (_hit_enemy != noone) {

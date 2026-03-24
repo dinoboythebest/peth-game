@@ -3,7 +3,7 @@ var attacked = false;
 
 if(collision)
 {
-	if(oPlayer_1.state = "attack" || oPlayer_1.crash_down = true || oPlayer_1.state = "special")
+	if(oPlayer_1.state = "attack" || oPlayer_1.crash_down = true)
 	{
 		attacked = true;
 	}

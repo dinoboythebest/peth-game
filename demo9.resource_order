@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oEndlessWaveButton","order":2,"path":"objects/oEndlessWaveButton/oEndlessWaveButton.yy",},
+    {"name":"oExit","order":8,"path":"objects/oExit/oExit.yy",},
+    {"name":"roomEndlessWaves","order":1,"path":"rooms/roomEndlessWaves/roomEndlessWaves.yy",},
+    {"name":"sEndlessWaves","order":3,"path":"sprites/sEndlessWaves/sEndlessWaves.yy",},
+    {"name":"sExit","order":7,"path":"sprites/sExit/sExit.yy",},
+    {"name":"sPlayerBlock","order":5,"path":"sprites/sPlayerBlock/sPlayerBlock.yy",},
+    {"name":"sPlayerRun","order":4,"path":"sprites/sPlayerRun/sPlayerRun.yy",},
+    {"name":"sPlayerSpecial","order":6,"path":"sprites/sPlayerSpecial/sPlayerSpecial.yy",},
+    {"name":"sPlayerWalk","order":9,"path":"sprites/sPlayerWalk/sPlayerWalk.yy",},
+  ],
+}
